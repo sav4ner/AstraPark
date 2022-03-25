@@ -87,3 +87,4 @@ urllib3==1.26.9
     # via requests
 matplotlib
 SQLAlchemy
+--upgrade pip setuptools wheel
