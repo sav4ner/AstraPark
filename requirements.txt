@@ -39,5 +39,6 @@ social-auth-app-django==4.0.0
 social-auth-core==4.2.0
 SQLAlchemy==1.4.32
 sqlparse==0.4.2
+tzdata==2022.1
 uritemplate==4.1.1
 urllib3==1.26.9
